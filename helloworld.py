@@ -1,0 +1,2 @@
+var = "hunaid"
+print(var)

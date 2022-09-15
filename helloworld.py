@@ -1,2 +1,0 @@
-var = "hunaid"
-print(var)
